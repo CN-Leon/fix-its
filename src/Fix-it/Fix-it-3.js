@@ -17,3 +17,4 @@ const Movie = ({ title, year }) => {
   );
 };
 export default Fixit3;
+
