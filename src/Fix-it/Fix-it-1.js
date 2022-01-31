@@ -5,7 +5,7 @@ const FixIt1 = () => {
     return (
         <div>
             <User name="benjamin" />
-            <User name="cristiano" >
+            <User name="cristiano" />
         </div>
     )
 }
