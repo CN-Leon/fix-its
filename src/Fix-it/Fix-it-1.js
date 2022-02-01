@@ -11,6 +11,7 @@ const FixIt1 = () => {
 }
 
 
+
 const User = () => {
     return <h2>hello {props.name}</h2>
 }
